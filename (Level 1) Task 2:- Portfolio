@@ -10,12 +10,11 @@
   </head>
   <body>
     <header>
-      <h1>Aditya Konda</h1>
+      <h1>Yamuna</h1>
       <p>Web Developer | Full Stack Developer</p>
     </header>
 
     <section id="about">
-      <img src="profile.jpg" alt="Aditya Konda" />
     </section>
 
     <section id="about1">
@@ -27,7 +26,6 @@
     <section id="projects">
       <h2>Projects</h2>
       <div class="project">
-        <img src="project1.jpg" alt="Project 1" />
         <h3>Project 1</h3>
         <p>Designed and coded a responsive website for a local business.</p>
       </div>
@@ -45,11 +43,11 @@
     </section>
     <section id="contact">
       <h2>Contact</h2>
-      <p>Email: adityakonda04@gmail.com</p>
-      <p>Phone: 808039260</p>
+      <p>Email: yamunayamuna2021@gmail.com</p>
+      <p>Phone: 8296800811</p>
     </section>
     <footer>
-      <p>&copy; 2023 Aditya Konda. All rights reserved.</p>
+      <p>&copy; 2025 Yamuna All rights reserved.</p>
     </footer>
   </body>
 </html>
